@@ -1,4 +1,4 @@
-### 📄 <ins>README.md</ins>                                       [ _ X ]
+### 📄 <ins>README.md</ins>                                      [ _ X ]
 # heya !!
 im yue! :P <img src="aichan.png" width=200 height=200 align="right">
 > my username is @_mxnulusion_ i js dont wanna change my github user
