@@ -1,4 +1,4 @@
-### 📄 <ins>README.md</ins>                                  [ _ X ]
+### 📄 <ins>README.md</ins>
 # heya !!
 im yue! :P <img src="aichan.png" width=200 height=200 align="right">
 > my old username is @xxyuee
